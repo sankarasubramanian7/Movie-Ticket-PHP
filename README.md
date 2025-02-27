@@ -75,4 +75,4 @@ Users can easily browse movies, book tickets, and view their bookings. The main 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/sankarasubramanian7/movieticketphp.git
+   git clone https://github.com/sankarasubramanian7/Movie-Ticket-PHP.git
